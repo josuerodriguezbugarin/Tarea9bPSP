@@ -12,3 +12,5 @@
 - ![img_1.png](capturas/img_1.png)
 - Tercera:
 - ![img_2.png](capturas/img_2.png)
+- Preguntas a la IA: 
+- ![img_3.png](capturas/img_3.png)
